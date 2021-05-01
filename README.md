@@ -6,7 +6,6 @@
 <div>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" >   
  </div>
- <br><br>
  <i> I'm a student at Pune Institute of Computer Technology.
  I have a keen interest in Web-Development & Competitive Programming.
  I'm open minded person and loves to make new connections with people.
@@ -23,7 +22,7 @@
 </div>
 
     
-### I code in
+### Technologies that I have worked with
 <div>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
