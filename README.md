@@ -42,3 +42,7 @@
 <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdhar30&count_private=true&langs_count=4&title_color=#3080ED&icon_color=#3080ED&text_color=black&bg_color=#FFFEFE">
 </div>
 </p>
+
+
+ ### How to Reach me
+ [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/dhar__abhishek) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhishek-dhar-aa12491a4/)
