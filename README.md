@@ -7,7 +7,7 @@
 <img align="right" width="370" height="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" >   
  </div>
 <br>
- <i> I'm a student at Pune Institute of Computer Technology.
+ <i> I'm a student,currently pursuing Bachelor's Degree from Pune Institute of Computer Technology.
  I have a keen interest in Web-Development & Competitive Programming.
  I'm open minded person and loves to make new connections with people.
  I’m currently learning React and DSA.
